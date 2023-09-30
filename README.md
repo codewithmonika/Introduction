@@ -1,7 +1,8 @@
 # About Me
 <h1 align="center">Hello, I'm Monika Gupta</h1>
 <p>Currently I'm a student of NIT Jamshedpur, pursuing MCA. </p>
-- 📫 How to reach me **imonika.0611@gmail.com**
+<p><b>How to reach me:</b></p>
+<p>imonika.0611@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
